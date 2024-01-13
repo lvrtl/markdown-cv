@@ -1,91 +1,151 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Laura Rintoul CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+
+# Laura Rintoul
+
+Software Engineer with a First Class Master's in Phyics
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="laurarintoul63@gmail.com">laurarintoul63@gmail.com</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+Full Stack Software Engineer at Accolite Digital contracted to Morgan Stanley in Glasow
 
-### Specialized in
+### Using
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Scala, Spark, Python and Sybase
 
+### Interested in
 
-### Research interests
+Work that does more for others, working with a respect for code practice and to be based in Edinburgh.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+## Work
 
+`November 2022 - now`
+Software Engineer at Accolite Digital
+
+-   Full stack training in Java, Spring Boot, JavaScript, Typescript, Angular, CSS and HTML
+-   Been working as a contractor to Morgan Stanley since February 2023
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`November - December 2023`
+**Accolite Digital**
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+-   3 and a half months of full stack training
+-   git, html, css, javascript, Java, Angular and Spring Boot
+-   javascript particularly from a web design and full stack perspective; for UI and for asynchronous API calls
+-   Java covered multi-threading, asynchronicity and SOLID principles.
+-   Covered Test Driven Development
+-   Full Stack Project
 
-- Sizar
+`2018-2022`
+**Heriot-Watt University**
+_Master of Physics in Mathematical Physics with Honor's of the first class_
 
-`1667 - death`
-__Trinity College, Cambridge__
+-   Taught MATLAB from 2nd year onwards
+-   Self taught Python in 3rd year and have been using since
+-   Used these to deliver batchelor's and Master's Projects
 
-- Fellow
+`2013-2018`
+**Meldrum Academy**
 
+-   Advanced Higher Physics, Mathematics and Chemistry
+-   Higher English and Biology
 
+## Projects
 
-## Awards
+### Accolite Digital
 
-`2012`
-President, *Royal Society*, London, UK
+#### Induction Into existing team at Morgan Stanley
 
-Associate, *French Academy of Science*, Paris, France
+_August 2023_
+`Current Team`
+I joined a team in Morgan Stanley that is working on developing data processing pipelines using Scala and Spark. In this team, I have also taken an active role in picking up infrastructure setup work such as integrating a Postgres Database with an existing high demand system, developing Sybase database procs and developing of python scripts and utilities.
+_using:_
 
+-   Python: Recently set up a testing framework for an existing old codebase so as to get practices cleaner
+-   Scala: Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
+-   Spark: Has improved my understanding of engineering database and SQL logic
+-   Sybase: Has been challenging and interesting to develop for production; unit testing and clean design
+-   Working model: Scrum and Kanban
 
+#### Morgan Stanley Joining Project
 
-## Publications
+_February 2023_
+When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
+_used:_
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+-   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
+-   Angular: UI design using HTML and SCSS, SOLID design, API access
+-   Persistence: Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
+-   Working model: Scrum
 
-### Journals
+#### Training Project
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+_November 2023_
+As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
+_used:_
 
-`1669`
-Lectiones opticæ.
+-   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering.
+-   Angular: UI design using HTML and SCSS, SOLID design, API access
+-   Persistence: MySQL.
+-   Deployment model: AWS
+-   Working model: Scrum
 
-etc. etc. etc.
+### Heriot-Watt University
 
-### Patents
+#### The Effects of Phonons in 2D Quantum Devices Sep’21-May’22
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
+Master’s project; computational physics utilising python 3
 
+-   Built in python
+-   Moved the Bachelor’s project to 3D, as well as constructing theoretical methods
+    for analysis
+-   Presented and answered questions on the research subject and computational/programming
+    methods
+-   Talk, poster presentation and report write-up
+-   Also utilised tools in C++ for some analysis methods
 
-## Occupation
+#### Towards Calculating Phonons in 2D Quantum Devices
 
-`1600`
-__Royal Mint__, London
+_May 2021 July 2021_
+Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 
-- Warden
-- Minted coins
+-   computational physics utilising python 3
+-   Object oriented approach to model with numpy for computation
+-   All python from the ground up, with advice on direction from supervisors but
+    otherwise independent
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+### Personal Projects
 
+#### Unicode
 
+_December 2020 to May 2021_
+Took part in the Unicode online coding competition, in which weekly challenges were
+presented and students from universities were tasked to create coded solutions to these
+problems; completed in Python 3.
 
-<!-- ### Footer
+#### Space Apps
 
-Last updated: May 2013 -->
+_October 2020_
+A 24 hour "code jam" challenge in which I and a team of fellow students organised a presentation
+on the importance of airflow modelling for Covid-19 and presented it to a panel of experts.
 
+#### Watts Up space project
 
+_October 2019 to February 2020_
+Actively participated in the Heriot-Watt Physics society to plan a balloon with a
+payload being sent into space; worked on the hardware and physical design team, planning
+retrieval, calculating the required parachute size and organising sourcing for parts.
+
+#### Mandelbrot Plot
+
+_August 2019_
+Used MATLAB to produce renders of zooms on the Mandlebrot set, a mathematical
+fractal, as an exercise in modelling design, animation and to see the plots.
