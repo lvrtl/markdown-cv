@@ -19,22 +19,26 @@ Full Stack Software Engineer at Accolite Digital contracted to Morgan Stanley in
 
 Scala, Spark, Python and Sybase
 
-### Interested in
+### Looking for
 
-Work that does more for others, working with a respect for code practice and to be based in Edinburgh.
+-   Work that does more for others
+-   working with a respect for code practice
+-   based in Edinburgh
 
 ## Work
 
-`November 2022 - now`
-Software Engineer at Accolite Digital
+`Nov `22 - now`
+
+### Software Engineer at Accolite Digital
 
 -   Full stack training in Java, Spring Boot, JavaScript, Typescript, Angular, CSS and HTML
 -   Been working as a contractor to Morgan Stanley since February 2023
 
 ## Education
 
-`November - December 2023`
-**Accolite Digital**
+`Nov - Dec `23`
+
+### Accolite Digital
 
 -   3 and a half months of full stack training
 -   git, html, css, javascript, Java, Angular and Spring Boot
@@ -43,28 +47,32 @@ Software Engineer at Accolite Digital
 -   Covered Test Driven Development
 -   Full Stack Project
 
-`2018-2022`
-**Heriot-Watt University**
+``18-`22`
+
+### Heriot-Watt University
+
 _Master of Physics in Mathematical Physics with Honor's of the first class_
 
 -   Taught MATLAB from 2nd year onwards
 -   Self taught Python in 3rd year and have been using since
 -   Used these to deliver batchelor's and Master's Projects
 
-`2013-2018`
-**Meldrum Academy**
+``13-`18`
+
+### Meldrum Academy
 
 -   Advanced Higher Physics, Mathematics and Chemistry
 -   Higher English and Biology
 
 ## Projects
 
-### Accolite Digital
+## Accolite Digital
 
 #### Induction Into existing team at Morgan Stanley
 
-_August 2023_
-`Current Team`
+`Aug `23-Now`
+
+Current Team
 I joined a team in Morgan Stanley that is working on developing data processing pipelines using Scala and Spark. In this team, I have also taken an active role in picking up infrastructure setup work such as integrating a Postgres Database with an existing high demand system, developing Sybase database procs and developing of python scripts and utilities.
 _using:_
 
@@ -76,7 +84,7 @@ _using:_
 
 #### Morgan Stanley Joining Project
 
-_February 2023_
+`Feb `23-Aug `23`
 When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
 _used:_
 
@@ -87,7 +95,7 @@ _used:_
 
 #### Training Project
 
-_November 2023_
+`Nov '23`
 As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
 _used:_
 
@@ -99,9 +107,10 @@ _used:_
 
 ### Heriot-Watt University
 
-#### The Effects of Phonons in 2D Quantum Devices Sep’21-May’22
+#### The Effects of Phonons in 2D Quantum Devices
 
 Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
+
 Master’s project; computational physics utilising python 3
 
 -   Built in python
@@ -112,9 +121,10 @@ Master’s project; computational physics utilising python 3
 -   Talk, poster presentation and report write-up
 -   Also utilised tools in C++ for some analysis methods
 
-#### Towards Calculating Phonons in 2D Quantum Devices
+### Towards Calculating Phonons in 2D Quantum Devices
 
-_May 2021 July 2021_
+`May `21-July `21`
+
 Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 
 -   computational physics utilising python 3
@@ -122,30 +132,31 @@ Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 -   All python from the ground up, with advice on direction from supervisors but
     otherwise independent
 
-### Personal Projects
+## Personal Projects
 
-#### Unicode
+### Unicode
 
-_December 2020 to May 2021_
+`Dec `20-May `21`
 Took part in the Unicode online coding competition, in which weekly challenges were
 presented and students from universities were tasked to create coded solutions to these
 problems; completed in Python 3.
 
-#### Space Apps
+### Space Apps
 
-_October 2020_
+`Oct `20`
 A 24 hour "code jam" challenge in which I and a team of fellow students organised a presentation
 on the importance of airflow modelling for Covid-19 and presented it to a panel of experts.
 
-#### Watts Up space project
+`Oct `19-Feb `20`
 
-_October 2019 to February 2020_
+### Watts Up space project
+
 Actively participated in the Heriot-Watt Physics society to plan a balloon with a
 payload being sent into space; worked on the hardware and physical design team, planning
 retrieval, calculating the required parachute size and organising sourcing for parts.
 
-#### Mandelbrot Plot
+### Mandelbrot Plot
 
-_August 2019_
+`Aug 19`
 Used MATLAB to produce renders of zooms on the Mandlebrot set, a mathematical
 fractal, as an exercise in modelling design, animation and to see the plots.
