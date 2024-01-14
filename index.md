@@ -50,11 +50,11 @@ Scala, Spark, Python and Sybase
 
 `'18-'22`
 
-_Master of Physics in Mathematical Physics with Honor's of the first class_
+**Master of Physics in Mathematical Physics with Honor's of the first class**
 
 -   Taught MATLAB from 2nd year onwards
 -   Self taught Python in 3rd year and have been using since
--   Used these to deliver batchelor's and Master's Projects
+-   Used these to deliver Bachelor's and Master's Projects
 
 ### Meldrum Academy
 
@@ -112,9 +112,11 @@ _used:_
 
 ### The Effects of Phonons in 2D Quantum Devices
 
-Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
+`Sept '21-May '22`
 
-Master’s project; computational physics utilising python 3
+_Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
+
+**Master’s project; computational physics utilising python 3**
 
 -   Built in python
 -   Moved the Bachelor’s project to 3D, as well as constructing theoretical methods
@@ -128,7 +130,7 @@ Master’s project; computational physics utilising python 3
 
 `May '21-July '21`
 
-Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
+_Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
 
 -   computational physics utilising python 3
 -   Object oriented approach to model with numpy for computation
