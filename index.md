@@ -27,7 +27,7 @@ Scala, Spark, Python and Sybase
 
 ## Work
 
-### Software Engineer at Accolite Digital
+**Software Engineer at Accolite Digital**
 
 `Nov '22 - now`
 
@@ -36,7 +36,7 @@ Scala, Spark, Python and Sybase
 
 ## Education
 
-### Accolite Digital
+**Accolite Digital**
 
 `Nov - Dec '23`
 
@@ -47,32 +47,30 @@ Scala, Spark, Python and Sybase
 -   Covered Test Driven Development
 -   Full Stack Project
 
-### Heriot-Watt University
+**Heriot-Watt University**
 
 `'18-'22`
 
-Master of Physics in Mathematical Physics with Honor's of the first class
+_Master of Physics in Mathematical Physics with Honor's of the first class_
 
 -   Taught MATLAB from 2nd year onwards
 -   Self taught Python in 3rd year and have been using since
 -   Used these to deliver Bachelor's and Master's Projects
 
-### Meldrum Academy
+**Meldrum Academy**
 
 `'13-'18`
 
 Advanced Higher Physics, Mathematics, Chemistry
-Higher English, Biology  
+Higher English, Biology
 
 ## Projects
 
 ## Accolite Digital
 
-### Induction Into existing team at Morgan Stanley
+**Induction Into existing team at Morgan Stanley**
 
 `Aug '23-Now`
-
-_Current Team_
 
 I joined a team in Morgan Stanley that is working on developing data processing pipelines using Scala and Spark. In this team, I have also taken an active role in picking up infrastructure setup work such as integrating a Postgres Database with an existing high demand system, developing Sybase database procs and developing of python scripts and utilities.
 
@@ -84,7 +82,7 @@ _using:_
 -   Sybase: Has been challenging and interesting to develop for production; unit testing and clean design
 -   Working model: Scrum and Kanban
 
-### Morgan Stanley Joining Project
+**Morgan Stanley Joining Project**
 
 `Feb '23-Aug '23`
 When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
@@ -96,7 +94,7 @@ _used:_
 -   Persistence: Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
 -   Working model: Scrum
 
-### Training Project
+**Training Project**
 
 `Nov '23`
 As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
@@ -111,13 +109,11 @@ _used:_
 
 ## Heriot-Watt University
 
-### The Effects of Phonons in 2D Quantum Devices
-
+**Master’s project**
 `Sept '21-May '22`
+"The Effects of Phonons in 2D Quantum Devices"
 
 _Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
-
-**Master’s project; computational physics utilising python 3**
 
 -   Built in python
 -   Moved the Bachelor’s project to 3D, as well as constructing theoretical methods
@@ -127,9 +123,10 @@ _Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
 -   Talk, poster presentation and report write-up
 -   Also utilised tools in C++ for some analysis methods
 
-### Towards Calculating Phonons in 2D Quantum Devices
+**Bachelor's Project**
 
 `May '21-July '21`
+"Towards Calculating Phonons in 2D Quantum Devices"
 
 _Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
 
@@ -140,14 +137,14 @@ _Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/_
 
 ## Personal Projects
 
-### Unicode
+**Unicode**
 
 `Dec '20-May '21`
 Took part in the Unicode online coding competition, in which weekly challenges were
 presented and students from universities were tasked to create coded solutions to these
 problems; completed in Python 3.
 
-### Space Apps
+**Space Apps**
 
 `Oct '20`
 A 24 hour "code jam" challenge in which I and a team of fellow students organised a presentation
@@ -155,14 +152,23 @@ on the importance of airflow modelling for Covid-19 and presented it to a panel 
 
 `Oct '19-Feb '20`
 
-### Watts Up space project
+**Watts Up space project**
 
 Actively participated in the Heriot-Watt Physics society to plan a balloon with a
 payload being sent into space; worked on the hardware and physical design team, planning
 retrieval, calculating the required parachute size and organising sourcing for parts.
 
-### Mandelbrot Plot
+**Mandelbrot Plot**
 
 `Aug '19`
 Used MATLAB to produce renders of zooms on the Mandlebrot set, a mathematical
 fractal, as an exercise in modelling design, animation and to see the plots.
+
+## References
+
+*Personal Tutor*
+
+Prof. Daniel Esser; M.J.D.Esser@hw.ac.uk
+
+*Project Supervisor*
+Prof. Erik Gauger; E.Gauger@hw.ac.uk
