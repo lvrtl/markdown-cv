@@ -76,19 +76,19 @@ I joined a team in Morgan Stanley that is working on developing data processing 
 
 _using:_
 
-###Python
+### Python
 
  Recently set up a testing framework for an existing old codebase so as to get practices cleaner
 
-###Scala
+### Scala
 
  Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
 
-###Spark
+### Spark
 
  Has improved my understanding of engineering database and SQL logic
 
-###Sybase
+### Sybase
 
 Has been challenging and interesting to develop for production; unit testing and clean design
 
@@ -103,17 +103,17 @@ When I joined Morgan Stanley as a contractor for Accolite, where I worked in ano
 
 _used:_
 
-###Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
+### Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
 
-###Angular
+### Angular
 
 UI design using HTML and SCSS, SOLID design, API access
 
-###Persistence
+### Persistence
 
 Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
 
-###Working model
+### Working model
 
 Scrum
 
@@ -125,23 +125,23 @@ As part of my training, I worked in a full stack project to using angular and sp
 _used:_
 
 
-###Java/Spring Boot
+### Java/Spring Boot
 
 Persistence Modelling, SOLID design, API engineering.
 
-###Angular
+### Angular
 
 UI design using HTML and SCSS, SOLID design, API access
 
-###Persistence
+### Persistence
 
 MySQL.
 
-###Deployment model
+### Deployment model
 
 AWS
 
-###Working model
+### Working model
 
 Scrum
 
