@@ -51,7 +51,7 @@ Scala, Spark, Python and Sybase
 
 `'18-'22`
 
-**Master of Physics in Mathematical Physics with Honor's of the first class**
+Master of Physics in Mathematical Physics with Honor's of the first class
 
 -   Taught MATLAB from 2nd year onwards
 -   Self taught Python in 3rd year and have been using since
@@ -61,13 +61,8 @@ Scala, Spark, Python and Sybase
 
 `'13-'18`
 
-| Level | Subject | Grade |
-|:--------|:-------:|--------:|
-|Advanced Higher| Physics | B |
-|Advanced Higher|Mathematics | A |
-|Advanced Higher|Chemistry | C |
-|Higher|English|B|
-|Higher|Biology|B| 
+Advanced Higher Physics, Mathematics, Chemistry
+Higher English, Biology  
 
 ## Projects
 
