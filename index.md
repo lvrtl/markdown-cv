@@ -78,23 +78,23 @@ _using:_
 
 ### Python
 
- Recently set up a testing framework for an existing old codebase so as to get practices cleaner
+Recently set up a testing framework for an existing old codebase so as to get practices cleaner
 
 ### Scala
 
- Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
+Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
 
 ### Spark
 
- Has improved my understanding of engineering database and SQL logic
+Has improved my understanding of engineering database and SQL logic
 
 ### Sybase
 
 Has been challenging and interesting to develop for production; unit testing and clean design
 
-W orking model
+Working model
 
- Scrum and Kanban
+Scrum and Kanban
 
 **Morgan Stanley Joining Project**
 
@@ -103,7 +103,9 @@ When I joined Morgan Stanley as a contractor for Accolite, where I worked in ano
 
 _used:_
 
-### Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
+### Java/Spring Boot
+
+Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
 
 ### Angular
 
@@ -123,7 +125,6 @@ Scrum
 As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
 
 _used:_
-
 
 ### Java/Spring Boot
 
@@ -204,9 +205,9 @@ fractal, as an exercise in modelling design, animation and to see the plots.
 
 ## References
 
-*Personal Tutor*
+_Personal Tutor_
 
 Prof. Daniel Esser; M.J.D.Esser@hw.ac.uk
 
-*Project Supervisor*
+_Project Supervisor_
 Prof. Erik Gauger; E.Gauger@hw.ac.uk
