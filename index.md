@@ -27,18 +27,18 @@ Scala, Spark, Python and Sybase
 
 ## Work
 
-`Nov '22 - now`
-
 ### Software Engineer at Accolite Digital
+
+`Nov '22 - now`
 
 -   Full stack training in Java, Spring Boot, JavaScript, Typescript, Angular, CSS and HTML
 -   Been working as a contractor to Morgan Stanley since February 2023
 
 ## Education
 
-`Nov - Dec '23`
-
 ### Accolite Digital
+
+`Nov - Dec '23`
 
 -   3 and a half months of full stack training
 -   git, html, css, javascript, Java, Angular and Spring Boot
@@ -47,9 +47,9 @@ Scala, Spark, Python and Sybase
 -   Covered Test Driven Development
 -   Full Stack Project
 
-`'18-'22`
-
 ### Heriot-Watt University
+
+`'18-'22`
 
 _Master of Physics in Mathematical Physics with Honor's of the first class_
 
@@ -57,9 +57,9 @@ _Master of Physics in Mathematical Physics with Honor's of the first class_
 -   Self taught Python in 3rd year and have been using since
 -   Used these to deliver batchelor's and Master's Projects
 
-`'13-'18`
-
 ### Meldrum Academy
+
+`'13-'18`
 
 -   Advanced Higher Physics, Mathematics and Chemistry
 -   Higher English and Biology
@@ -68,7 +68,7 @@ _Master of Physics in Mathematical Physics with Honor's of the first class_
 
 ## Accolite Digital
 
-#### Induction Into existing team at Morgan Stanley
+### Induction Into existing team at Morgan Stanley
 
 `Aug '23-Now`
 
@@ -82,7 +82,7 @@ _using:_
 -   Sybase: Has been challenging and interesting to develop for production; unit testing and clean design
 -   Working model: Scrum and Kanban
 
-#### Morgan Stanley Joining Project
+### Morgan Stanley Joining Project
 
 `Feb '23-Aug '23`
 When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
@@ -93,7 +93,7 @@ _used:_
 -   Persistence: Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
 -   Working model: Scrum
 
-#### Training Project
+### Training Project
 
 `Nov '23`
 As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
@@ -105,9 +105,9 @@ _used:_
 -   Deployment model: AWS
 -   Working model: Scrum
 
-### Heriot-Watt University
+## Heriot-Watt University
 
-#### The Effects of Phonons in 2D Quantum Devices
+### The Effects of Phonons in 2D Quantum Devices
 
 Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 
