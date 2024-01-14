@@ -76,11 +76,25 @@ I joined a team in Morgan Stanley that is working on developing data processing 
 
 _using:_
 
--   Python: Recently set up a testing framework for an existing old codebase so as to get practices cleaner
--   Scala: Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
--   Spark: Has improved my understanding of engineering database and SQL logic
--   Sybase: Has been challenging and interesting to develop for production; unit testing and clean design
--   Working model: Scrum and Kanban
+###Python
+
+ Recently set up a testing framework for an existing old codebase so as to get practices cleaner
+
+###Scala
+
+ Have been using a mix of scala's functional features and traditional SOLID object-oriented java-like design
+
+###Spark
+
+ Has improved my understanding of engineering database and SQL logic
+
+###Sybase
+
+Has been challenging and interesting to develop for production; unit testing and clean design
+
+W orking model
+
+ Scrum and Kanban
 
 **Morgan Stanley Joining Project**
 
@@ -89,10 +103,19 @@ When I joined Morgan Stanley as a contractor for Accolite, where I worked in ano
 
 _used:_
 
--   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
--   Angular: UI design using HTML and SCSS, SOLID design, API access
--   Persistence: Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
--   Working model: Scrum
+###Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
+
+###Angular
+
+UI design using HTML and SCSS, SOLID design, API access
+
+###Persistence
+
+Initally used CSVS, but designed and generated from an ER diagram we designed as a team until actual data sources were available. Then moved over to postgres.
+
+###Working model
+
+Scrum
 
 **Training Project**
 
@@ -101,11 +124,26 @@ As part of my training, I worked in a full stack project to using angular and sp
 
 _used:_
 
--   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering.
--   Angular: UI design using HTML and SCSS, SOLID design, API access
--   Persistence: MySQL.
--   Deployment model: AWS
--   Working model: Scrum
+
+###Java/Spring Boot
+
+Persistence Modelling, SOLID design, API engineering.
+
+###Angular
+
+UI design using HTML and SCSS, SOLID design, API access
+
+###Persistence
+
+MySQL.
+
+###Deployment model
+
+AWS
+
+###Working model
+
+Scrum
 
 ## Heriot-Watt University
 
