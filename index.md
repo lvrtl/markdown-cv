@@ -5,15 +5,15 @@ title: Laura Rintoul CV
 
 # Laura Rintoul
 
-Software Engineer with a First Class Master's in Phsyics
+Software Engineer with a First Class Master's in Physics
 
 <div id="webaddress">
-<a href="laurarintoul63@gmail.com">laurarintoul63@gmail.com</a>
+<a href="lrintoul@protonmail.com">lrintoul@protonmail.com</a>
 </div>
 
-## Currently
+## Currently,
 
-Full Stack Software Engineer at Accolite Digital contracted to Morgan Stanley in Glasow
+I am a Full Stack Software Engineer at Accolite Digital contracted to Morgan Stanley in Glasow.
 
 ### Using
 
@@ -21,8 +21,9 @@ Scala, Spark, Python and Sybase
 
 ### Looking for
 
--   An organisation that's making things for people
--   based in Edinburgh
+-   An organisation that's making things for people.
+-   Professionalism and pride in the work we do.
+-   Working while based in Edinburgh.
 
 ## Work
 
@@ -41,7 +42,7 @@ Scala, Spark, Python and Sybase
 
 -   3 and a half months of full stack training
 -   git, html, css, javascript, Java, Angular and Spring Boot
--   javascript particularly from a web design and full stack perspective; for UI and for asynchronous API calls
+-   javascript training was particularly from a web design and full stack perspective; for UI and for asynchronous API calls
 -   Java covered multi-threading, asynchronicity and SOLID principles.
 -   Covered Test Driven Development
 -   Full Stack Project
@@ -60,8 +61,13 @@ Scala, Spark, Python and Sybase
 
 `'13-'18`
 
--   Advanced Higher Physics, Mathematics and Chemistry
--   Higher English and Biology
+| Level | Subject | Grade |
+|:--------|:-------:|--------:|
+|Advanced Higher| Physics | B |
+|Advanced Higher|Mathematics | A |
+|Advanced Higher|Chemistry | C |
+|Higher|English|B|
+|Higher|Biology|B| 
 
 ## Projects
 
