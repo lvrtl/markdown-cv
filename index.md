@@ -27,7 +27,7 @@ Scala, Spark, Python and Sybase
 
 ## Work
 
-`Nov `22 - now`
+`Nov '22 - now`
 
 ### Software Engineer at Accolite Digital
 
@@ -36,7 +36,7 @@ Scala, Spark, Python and Sybase
 
 ## Education
 
-`Nov - Dec `23`
+`Nov - Dec '23`
 
 ### Accolite Digital
 
@@ -47,7 +47,7 @@ Scala, Spark, Python and Sybase
 -   Covered Test Driven Development
 -   Full Stack Project
 
-``18-`22`
+`'18-'22`
 
 ### Heriot-Watt University
 
@@ -57,7 +57,7 @@ _Master of Physics in Mathematical Physics with Honor's of the first class_
 -   Self taught Python in 3rd year and have been using since
 -   Used these to deliver batchelor's and Master's Projects
 
-``13-`18`
+`'13-'18`
 
 ### Meldrum Academy
 
@@ -70,7 +70,7 @@ _Master of Physics in Mathematical Physics with Honor's of the first class_
 
 #### Induction Into existing team at Morgan Stanley
 
-`Aug `23-Now`
+`Aug '23-Now`
 
 Current Team
 I joined a team in Morgan Stanley that is working on developing data processing pipelines using Scala and Spark. In this team, I have also taken an active role in picking up infrastructure setup work such as integrating a Postgres Database with an existing high demand system, developing Sybase database procs and developing of python scripts and utilities.
@@ -84,7 +84,7 @@ _using:_
 
 #### Morgan Stanley Joining Project
 
-`Feb `23-Aug `23`
+`Feb '23-Aug '23`
 When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
 _used:_
 
@@ -123,7 +123,7 @@ Master’s project; computational physics utilising python 3
 
 ### Towards Calculating Phonons in 2D Quantum Devices
 
-`May `21-July `21`
+`May '21-July '21`
 
 Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 
@@ -136,18 +136,18 @@ Supervision : Dr. Erik Gauger and Dr Moritz Cygorek; http://qtt.eps.hw.ac.uk/
 
 ### Unicode
 
-`Dec `20-May `21`
+`Dec '20-May '21`
 Took part in the Unicode online coding competition, in which weekly challenges were
 presented and students from universities were tasked to create coded solutions to these
 problems; completed in Python 3.
 
 ### Space Apps
 
-`Oct `20`
+`Oct '20`
 A 24 hour "code jam" challenge in which I and a team of fellow students organised a presentation
 on the importance of airflow modelling for Covid-19 and presented it to a panel of experts.
 
-`Oct `19-Feb `20`
+`Oct '19-Feb '20`
 
 ### Watts Up space project
 
@@ -157,6 +157,6 @@ retrieval, calculating the required parachute size and organising sourcing for p
 
 ### Mandelbrot Plot
 
-`Aug 19`
+`Aug '19`
 Used MATLAB to produce renders of zooms on the Mandlebrot set, a mathematical
 fractal, as an exercise in modelling design, animation and to see the plots.
