@@ -5,7 +5,7 @@ title: Laura Rintoul CV
 
 # Laura Rintoul
 
-Software Engineer with a First Class Master's in Phyics
+Software Engineer with a First Class Master's in Phsyics
 
 <div id="webaddress">
 <a href="laurarintoul63@gmail.com">laurarintoul63@gmail.com</a>
@@ -21,8 +21,7 @@ Scala, Spark, Python and Sybase
 
 ### Looking for
 
--   Work that does more for others
--   working with a respect for code practice
+-   An organisation that's making things for people
 -   based in Edinburgh
 
 ## Work
@@ -72,8 +71,10 @@ _Master of Physics in Mathematical Physics with Honor's of the first class_
 
 `Aug '23-Now`
 
-Current Team
+_Current Team_
+
 I joined a team in Morgan Stanley that is working on developing data processing pipelines using Scala and Spark. In this team, I have also taken an active role in picking up infrastructure setup work such as integrating a Postgres Database with an existing high demand system, developing Sybase database procs and developing of python scripts and utilities.
+
 _using:_
 
 -   Python: Recently set up a testing framework for an existing old codebase so as to get practices cleaner
@@ -86,6 +87,7 @@ _using:_
 
 `Feb '23-Aug '23`
 When I joined Morgan Stanley as a contractor for Accolite, where I worked in another full stack project using Angular, Spring Boot and Postgres. This was a scrum setup with the 6 other people I went through training with so there was a lot of learning how to take an active role in planning and organising within Scrum, as well as establishing respectful cooperative teamwork and discussion.
+
 _used:_
 
 -   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering and unit testing. Set up and maintained docker encapsulation and CI.
@@ -97,6 +99,7 @@ _used:_
 
 `Nov '23`
 As part of my training, I worked in a full stack project to using angular and spring boot. Most of my work was in front end and UI design. This project was over 2 months.
+
 _used:_
 
 -   Java/Spring Boot: Persistence Modelling, SOLID design, API engineering.
